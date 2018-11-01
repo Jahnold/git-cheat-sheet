@@ -1,12 +1,18 @@
 Collection of useful git commands
 
-#TAGS
+# Tags
 
-List all tags
-`git tag`
+List all tags:
+```
+git tag
+```
 
-Create a new tag
-`git tag [tag name]`
+Create a new tag:
+```
+git tag [tag name]
+```
 
-Push new tag to remote
-`git push origin [tag name]`
+Push new tag to remote:
+```
+git push origin [tag name]
+```
